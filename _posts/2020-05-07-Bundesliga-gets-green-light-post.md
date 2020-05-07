@@ -1,6 +1,6 @@
 ---
 layout: Post
-tittle: "Bundesliga gets green light post"
+tittle: [Bundesliga gets green light post]
 date: 2020-05-07
 categories: [blog, football]
 tags: [Football, Bundesliga, Germany]
