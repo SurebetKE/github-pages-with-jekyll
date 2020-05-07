@@ -1,12 +1,13 @@
+---
 theme: minima
 title: SurebetKE
 author: SurebetKE
 email: info@surebetke.co.ke
-description: > # 
-  Winning Football Predictions site that is dedicated on making you a winner daily....
+description: > # Winning Football Predictions site that is dedicated on making you a winner daily....
+---
 
 # social links
 twitter_username: surebet_KE # 
 github_username:  SurebetKE # 
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: true #
